@@ -30,7 +30,7 @@ cargo init
 graph TD
     A[Credentials] --> B[Create Credentials]
     B --> C[OAuth Client ID]
-    C --> D[Desktop App]
+    C --> D[App]
 ```
 
 Save as `credentials.json` in project root.
