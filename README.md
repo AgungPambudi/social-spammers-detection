@@ -80,5 +80,9 @@ Follow the OAuth flow:
    Find yours at:  
    `https://www.youtube.com/account_advanced`
 
+4. **Running Tests**:
+   You run all the tests in your project (unit and integration tests) using the simple command in your terminal, from the root directory of your project:  
+   `cargo test`
+
 ## 📄 License
 Apache 2.0 License 
